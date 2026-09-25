@@ -1,0 +1,355 @@
+{
+  "dealership": "Metro Motors Ltd Ford",
+  "generated_at": "2026-09-25T15:50:38",
+  "vehicle_count": 33,
+  "currency": "CAD",
+  "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
+  "vehicles": [
+    {
+      "name": "Used2023\n\t\t\t\t\t\t\t\tFord",
+      "vin": "1FMCU0E10PUA55663",
+      "stock": "FLT5760",
+      "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/used/7dd9ecea954f.html",
+      "source_url": "https://metromotors.com/view/used-2023-ford-escape-1647018/",
+      "dealer_url": "https://metromotors.com/view/used-2023-ford-escape-1647018/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T15:42:26",
+      "odometer_km": 35950,
+      "condition": "used"
+    },
+    {
+      "name": "Used2023\n\t\t\t\t\t\t\t\tFord",
+      "vin": "1FMCU9NA6PUA78613",
+      "stock": "FLT5817",
+      "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/used/d7a7f84e388f.html",
+      "source_url": "https://metromotors.com/view/used-2023-ford-escape-1913922/",
+      "dealer_url": "https://metromotors.com/view/used-2023-ford-escape-1913922/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T15:42:36",
+      "odometer_km": 51818,
+      "condition": "used"
+    },
+    {
+      "name": "Used2023\n\t\t\t\t\t\t\t\tFord",
+      "vin": "1FTEW1EP0PFC70630",
+      "stock": "FLT5795",
+      "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/used/54867bb2348e.html",
+      "source_url": "https://metromotors.com/view/used-2023-ford-f-150-1828441/",
+      "dealer_url": "https://metromotors.com/view/used-2023-ford-f-150-1828441/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T15:42:46",
+      "odometer_km": 72764,
+      "condition": "used"
+    },
+    {
+      "name": "Used2023\n\t\t\t\t\t\t\t\tFord",
+      "vin": "1FTFW1E87PFB06708",
+      "stock": "FLT5812",
+      "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/used/58d5364f0185.html",
+      "source_url": "https://metromotors.com/view/used-2023-ford-f-150-1892875/",
+      "dealer_url": "https://metromotors.com/view/used-2023-ford-f-150-1892875/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T15:42:55",
+      "odometer_km": 70945,
+      "condition": "used"
+    },
+    {
+      "name": "Used2023\n\t\t\t\t\t\t\t\tFord",
+      "vin": "1FTEW1EP0PKD37444",
+      "stock": "MLT2293",
+      "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/used/ec15c2382671.html",
+      "source_url": "https://metromotors.com/view/used-2023-ford-f-150-1907278/",
+      "dealer_url": "https://metromotors.com/view/used-2023-ford-f-150-1907278/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T15:43:02",
+      "odometer_km": 63723,
+      "condition": "used"
+    },
+    {
+      "name": "Search",
+      "vin": "1FTEW1EP0PFC70630",
+      "stock": "FLT5795",
+      "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/used/64f1ab39de30.html",
+      "source_url": "https://metromotors.com/view/used-2023-ford-f-150-981725/",
+      "dealer_url": "https://metromotors.com/view/used-2023-ford-f-150-981725/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T15:43:12",
+      "odometer_km": 72764,
+      "condition": "used"
+    },
+    {
+      "name": "Used2023\n\t\t\t\t\t\t\t\tFord",
+      "vin": "1FA6P8CF2P5303191",
+      "stock": "PC5708",
+      "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/used/aea83d1fcf17.html",
+      "source_url": "https://metromotors.com/view/used-2023-ford-mustang-1889865/",
+      "dealer_url": "https://metromotors.com/view/used-2023-ford-mustang-1889865/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T15:43:21",
+      "odometer_km": 18095,
+      "condition": "used"
+    },
+    {
+      "name": "Used2023\n\t\t\t\t\t\t\t\tFord",
+      "vin": "1FTER4FH7PLE14014",
+      "stock": "MLT2283",
+      "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/used/b55e5ce57fb9.html",
+      "source_url": "https://metromotors.com/view/used-2023-ford-ranger-1843085/",
+      "dealer_url": "https://metromotors.com/view/used-2023-ford-ranger-1843085/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T15:43:31",
+      "odometer_km": 45307,
+      "condition": "used"
+    },
+    {
+      "name": "Used2024\n\t\t\t\t\t\t\t\tFord",
+      "vin": "1FMDE8BH6RLA77922",
+      "stock": "PFT2287",
+      "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/used/9c98b1a55295.html",
+      "source_url": "https://metromotors.com/view/used-2024-ford-bronco-1813443/",
+      "dealer_url": "https://metromotors.com/view/used-2024-ford-bronco-1813443/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T15:43:41",
+      "odometer_km": 38540,
+      "condition": "used"
+    },
+    {
+      "name": "Used2024\n\t\t\t\t\t\t\t\tFord",
+      "vin": "3FMCR9C69RRF07835",
+      "stock": "PFT2283",
+      "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/used/c17d965eb4d9.html",
+      "source_url": "https://metromotors.com/view/used-2024-ford-bronco-sport-1797703/",
+      "dealer_url": "https://metromotors.com/view/used-2024-ford-bronco-sport-1797703/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T15:43:51",
+      "odometer_km": 10335,
+      "condition": "used"
+    },
+    {
+      "name": "Used2024\n\t\t\t\t\t\t\t\tFord",
+      "vin": "3FMCR9C67RRE66329",
+      "stock": "25BR171",
+      "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/used/9a79772ce75d.html",
+      "source_url": "https://metromotors.com/view/used-2024-ford-bronco-sport-1893845/",
+      "dealer_url": "https://metromotors.com/view/used-2024-ford-bronco-sport-1893845/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T15:44:01",
+      "odometer_km": 39037,
+      "condition": "used"
+    },
+    {
+      "name": "Used2024\n\t\t\t\t\t\t\t\tFord",
+      "vin": "1FT6W5L77RWG17940",
+      "stock": "MLT2300",
+      "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/used/7dc314ef9b83.html",
+      "source_url": "https://metromotors.com/view/used-2024-ford-f-150-lightning-1926909/",
+      "dealer_url": "https://metromotors.com/view/used-2024-ford-f-150-lightning-1926909/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T15:44:11",
+      "odometer_km": 30111,
+      "condition": "used"
+    },
+    {
+      "name": "Used2024\n\t\t\t\t\t\t\t\tFord",
+      "vin": "3FMTK3SUXRMA50998",
+      "stock": "PFT2291",
+      "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/used/262918264e02.html",
+      "source_url": "https://metromotors.com/view/used-2024-ford-mustang-mach-e-1920405/",
+      "dealer_url": "https://metromotors.com/view/used-2024-ford-mustang-mach-e-1920405/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T15:44:19",
+      "odometer_km": 2669,
+      "condition": "used"
+    },
+    {
+      "name": "Used2024\n\t\t\t\t\t\t\t\tKia",
+      "vin": "KNDEP2AA7R7469059",
+      "stock": "PT5962",
+      "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/used/af2ae4889c3e.html",
+      "source_url": "https://metromotors.com/view/used-2024-kia-seltos-1835561/",
+      "dealer_url": "https://metromotors.com/view/used-2024-kia-seltos-1835561/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T15:44:27",
+      "odometer_km": 61918,
+      "condition": "used"
+    },
+    {
+      "name": "Used2025\n\t\t\t\t\t\t\t\tFord",
+      "vin": "1FMWK8GC4SGB75683",
+      "stock": "PT5974",
+      "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/used/432ec80411d7.html",
+      "source_url": "https://metromotors.com/view/used-2025-ford-explorer-1885336/",
+      "dealer_url": "https://metromotors.com/view/used-2025-ford-explorer-1885336/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T15:44:37",
+      "condition": "used"
+    },
+    {
+      "name": "Used2025\n\t\t\t\t\t\t\t\tFord",
+      "vin": "1FTVW3LK6SWG22461",
+      "stock": "PT5971",
+      "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/used/1514424000df.html",
+      "source_url": "https://metromotors.com/view/used-2025-ford-f-150-lightning-1884777/",
+      "dealer_url": "https://metromotors.com/view/used-2025-ford-f-150-lightning-1884777/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T15:44:47",
+      "odometer_km": 24098,
+      "condition": "used"
+    },
+    {
+      "name": "Used2026\n\t\t\t\t\t\t\t\tFord",
+      "vin": "3FMCR9CN8TRE44967",
+      "stock": "PFT2292",
+      "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/used/c0f05632502a.html",
+      "source_url": "https://metromotors.com/view/used-2026-ford-bronco-sport-1926831/",
+      "dealer_url": "https://metromotors.com/view/used-2026-ford-bronco-sport-1926831/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T15:44:54",
+      "odometer_km": 2984,
+      "condition": "used"
+    },
+    {
+      "name": "New2026\n\t\t\t\t\t\t\t\tFord",
+      "vin": "1FDXE4FNXTDD30182",
+      "stock": "26E4018",
+      "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/new/6afbaaf5f6a5.html",
+      "source_url": "https://metromotors.com/view/new-2026-ford-e-series-cutaway-1607465/",
+      "dealer_url": "https://metromotors.com/view/new-2026-ford-e-series-cutaway-1607465/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T15:48:03",
+      "condition": "new"
+    },
+    {
+      "name": "New2026\n\t\t\t\t\t\t\t\tFord",
+      "vin": "1FTFW3L88TKD29923",
+      "stock": "26F1992",
+      "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/new/4f72bac2a921.html",
+      "source_url": "https://metromotors.com/view/new-2026-ford-f-150-1726795/",
+      "dealer_url": "https://metromotors.com/view/new-2026-ford-f-150-1726795/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T15:48:13",
+      "condition": "new"
+    },
+    {
+      "name": "New2026\n\t\t\t\t\t\t\t\tFord",
+      "vin": "1FTFW5L87TFA36728",
+      "stock": "26F1672",
+      "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/new/8d7cb64ffbc6.html",
+      "source_url": "https://metromotors.com/view/new-2026-ford-f-150-1733324/",
+      "dealer_url": "https://metromotors.com/view/new-2026-ford-f-150-1733324/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T15:48:21",
+      "condition": "new"
+    },
+    {
+      "name": "New2026\n\t\t\t\t\t\t\t\tFord",
+      "vin": "1FTFW3L58TKD59428",
+      "stock": "26F1942",
+      "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/new/a9ccc1cd3ce6.html",
+      "source_url": "https://metromotors.com/view/new-2026-ford-f-150-1760174/",
+      "dealer_url": "https://metromotors.com/view/new-2026-ford-f-150-1760174/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T15:48:30",
+      "condition": "new"
+    },
+    {
+      "name": "New2026\n\t\t\t\t\t\t\t\tFord",
+      "vin": "1FTFW3L85TFA66086",
+      "stock": "26F1608",
+      "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/new/bc26e8be1fd0.html",
+      "source_url": "https://metromotors.com/view/new-2026-ford-f-150-1764397/",
+      "dealer_url": "https://metromotors.com/view/new-2026-ford-f-150-1764397/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T15:48:38",
+      "condition": "new"
+    },
+    {
+      "name": "New2026\n\t\t\t\t\t\t\t\tFord",
+      "vin": "1FA6P8THXT5112937",
+      "stock": "26MU293",
+      "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/new/941f8790c21b.html",
+      "source_url": "https://metromotors.com/view/new-2026-ford-mustang-1667166/",
+      "dealer_url": "https://metromotors.com/view/new-2026-ford-mustang-1667166/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T15:48:50",
+      "condition": "new"
+    },
+    {
+      "name": "New2026\n\t\t\t\t\t\t\t\tFord",
+      "vin": "1FA6P8CF3T5407750",
+      "stock": "26MU775",
+      "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/new/932430343a95.html",
+      "source_url": "https://metromotors.com/view/new-2026-ford-mustang-1760173/",
+      "dealer_url": "https://metromotors.com/view/new-2026-ford-mustang-1760173/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T15:49:00",
+      "condition": "new"
+    },
+    {
+      "name": "New2026\n\t\t\t\t\t\t\t\tFord",
+      "vin": "1FTER4HH3TLE14292",
+      "stock": "26RA429",
+      "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/new/f1e0f88164ca.html",
+      "source_url": "https://metromotors.com/view/new-2026-ford-ranger-1732613/",
+      "dealer_url": "https://metromotors.com/view/new-2026-ford-ranger-1732613/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T15:49:10",
+      "condition": "new"
+    },
+    {
+      "name": "New2026\n\t\t\t\t\t\t\t\tFord",
+      "vin": "1FTER4HP3TLE01663",
+      "stock": "26RA166",
+      "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/new/76fdf34f9edc.html",
+      "source_url": "https://metromotors.com/view/new-2026-ford-ranger-1743598/",
+      "dealer_url": "https://metromotors.com/view/new-2026-ford-ranger-1743598/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T15:49:21",
+      "condition": "new"
+    },
+    {
+      "name": "New2026\n\t\t\t\t\t\t\t\tFord",
+      "vin": "1FTER4HHXTLE13401",
+      "stock": "26RA340",
+      "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/new/29273104decc.html",
+      "source_url": "https://metromotors.com/view/new-2026-ford-ranger-1754387/",
+      "dealer_url": "https://metromotors.com/view/new-2026-ford-ranger-1754387/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T15:49:30",
+      "condition": "new"
+    },
+    {
+      "name": "New2026\n\t\t\t\t\t\t\t\tFord",
+      "vin": "1FT8W3BA4TEE29237",
+      "stock": "26F3923",
+      "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/new/0f5dc6ed16d4.html",
+      "source_url": "https://metromotors.com/view/new-2026-ford-super-duty-1732614/",
+      "dealer_url": "https://metromotors.com/view/new-2026-ford-super-duty-1732614/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T15:49:38",
+      "condition": "new"
+    },
+    {
+      "name": "New2027\n\t\t\t\t\t\t\t\tFord",
+      "vin": "1FT8W3BM8VEC27627",
+      "stock": "27F3762",
+      "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/new/8f8c514236ae.html",
+      "source_url": "https://metromotors.com/view/new-2027-ford-super-duty-1918954/",
+      "dealer_url": "https://metromotors.com/view/new-2027-ford-super-duty-1918954/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T15:49:47",
+      "condition": "new"
+    },
+    {
+      "name": "New2027\n\t\t\t\t\t\t\t\tFord",
+      "vin": "1FDPF6DX3VDF00754",
+      "stock": "27F6075",
+      "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/new/2326447fb2b7.html",
+      "source_url": "https://metromotors.com/view/new-2027-ford-super-duty-f-650-straight-frame-1930232/",
+      "dealer_url": "https://metromotors.com/view/new-2027-ford-super-duty-f-650-straight-frame-1930232/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T15:49:57",
+      "condition": "new"
+    },
+    {
+      "name": "New2027\n\t\t\t\t\t\t\t\tFord",
+      "vin": "1FTBW3UG5VKA07487",
+      "stock": "27T3748",
+      "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/new/07b26b4eca8f.html",
+      "source_url": "https://metromotors.com/view/new-2027-ford-transit-1917538/",
+      "dealer_url": "https://metromotors.com/view/new-2027-ford-transit-1917538/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T15:50:07",
+      "condition": "new"
+    },
+    {
+      "name": "New2027\n\t\t\t\t\t\t\t\tFord",
+      "vin": "1FTYE1Y8XVKA07425",
+      "stock": "27T1742",
+      "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/new/a811da7fd90e.html",
+      "source_url": "https://metromotors.com/view/new-2027-ford-transit-1922112/",
+      "dealer_url": "https://metromotors.com/view/new-2027-ford-transit-1922112/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T15:50:18",
+      "condition": "new"
+    },
+    {
+      "name": "New2027\n\t\t\t\t\t\t\t\tFord",
+      "vin": "1FTBW3X8XVKA13810",
+      "stock": "27T3381",
+      "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/new/c0e79db885e6.html",
+      "source_url": "https://metromotors.com/view/new-2027-ford-transit-cargo-van-1928339/",
+      "dealer_url": "https://metromotors.com/view/new-2027-ford-transit-cargo-van-1928339/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T15:50:28",
+      "condition": "new"
+    }
+  ]
+}
