@@ -1,36 +1,10 @@
 {
   "dealership": "Metro Motors Ltd Ford",
-  "generated_at": "2026-10-10T19:52:39",
+  "generated_at": "2026-10-17T10:43:09",
   "vehicle_count": 33,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
-    {
-      "name": "Used2021\n\t\t\t\t\t\t\t\tBuick",
-      "vin": "LRBFZMR47MD181205",
-      "stock": "MLT2284",
-      "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/used/fc7dd3b176f4.html",
-      "source_url": "https://metromotors.com/view/used-2021-buick-envision-1866991/",
-      "dealer_url": "https://metromotors.com/view/used-2021-buick-envision-1866991/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T19:47:33",
-      "odometer_km": 89414,
-      "condition": "used",
-      "city": "Port Coquitlam",
-      "province": "BC"
-    },
-    {
-      "name": "Used2021\n\t\t\t\t\t\t\t\tFord",
-      "vin": "2FMPK4K99MBA33963",
-      "stock": "MLT2299",
-      "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/used/dfc2c6e01806.html",
-      "source_url": "https://metromotors.com/view/used-2021-ford-edge-1926832/",
-      "dealer_url": "https://metromotors.com/view/used-2021-ford-edge-1926832/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T19:47:43",
-      "odometer_km": 121750,
-      "condition": "used",
-      "city": "Port Coquitlam",
-      "province": "BC"
-    },
     {
       "name": "Used2021\n\t\t\t\t\t\t\t\tFord",
       "vin": "1FTEW1EP7MKE50979",
@@ -59,6 +33,32 @@
     },
     {
       "name": "Used2022\n\t\t\t\t\t\t\t\tFord",
+      "vin": "1FMCU9G6XNUB79711",
+      "stock": "PFT2293",
+      "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/used/d8e07755a63a.html",
+      "source_url": "https://metromotors.com/view/used-2022-ford-escape-1950466/",
+      "dealer_url": "https://metromotors.com/view/used-2022-ford-escape-1950466/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T10:42:30",
+      "odometer_km": 61685,
+      "condition": "used",
+      "city": "Port Coquitlam",
+      "province": "BC"
+    },
+    {
+      "name": "Used2022\n\t\t\t\t\t\t\t\tFord",
+      "vin": "1FTFW1E88NKE31971",
+      "stock": "26F1266",
+      "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/used/d405204d5ac7.html",
+      "source_url": "https://metromotors.com/view/used-2022-ford-f-150-1949280/",
+      "dealer_url": "https://metromotors.com/view/used-2022-ford-f-150-1949280/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T10:42:40",
+      "odometer_km": 79832,
+      "condition": "used",
+      "city": "Port Coquitlam",
+      "province": "BC"
+    },
+    {
+      "name": "Used2022\n\t\t\t\t\t\t\t\tFord",
       "vin": "3FMTK4SX3NMA50920",
       "stock": "MLT2292",
       "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/used/9c3589462a66.html",
@@ -79,19 +79,6 @@
       "dealer_url": "https://metromotors.com/view/used-2023-ford-escape-1647018/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-10T19:49:12",
       "odometer_km": 35950,
-      "condition": "used",
-      "city": "Port Coquitlam",
-      "province": "BC"
-    },
-    {
-      "name": "Used2023\n\t\t\t\t\t\t\t\tFord",
-      "vin": "1FMCU0E10PUA64783",
-      "stock": "MLT2287",
-      "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/used/21efd7217bb5.html",
-      "source_url": "https://metromotors.com/view/used-2023-ford-escape-1874192/",
-      "dealer_url": "https://metromotors.com/view/used-2023-ford-escape-1874192/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T19:48:12",
-      "odometer_km": 48560,
       "condition": "used",
       "city": "Port Coquitlam",
       "province": "BC"
@@ -149,6 +136,19 @@
       "province": "BC"
     },
     {
+      "name": "Used2023\n\t\t\t\t\t\t\t\tFord",
+      "vin": "3FTTW8F93PRA87631",
+      "stock": "PFT2295",
+      "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/used/7d003bfed3d6.html",
+      "source_url": "https://metromotors.com/view/used-2023-ford-maverick-1950464/",
+      "dealer_url": "https://metromotors.com/view/used-2023-ford-maverick-1950464/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T10:42:51",
+      "odometer_km": 27956,
+      "condition": "used",
+      "city": "Port Coquitlam",
+      "province": "BC"
+    },
+    {
       "name": "Used2024\n\t\t\t\t\t\t\t\tFord",
       "vin": "1FMDE8BH6RLA77922",
       "stock": "PFT2287",
@@ -175,14 +175,14 @@
       "province": "BC"
     },
     {
-      "name": "Used2024\n\t\t\t\t\t\t\t\tKia",
-      "vin": "KNDEP2AA7R7469059",
-      "stock": "PT5962",
-      "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/used/af2ae4889c3e.html",
-      "source_url": "https://metromotors.com/view/used-2024-kia-seltos-1835561/",
-      "dealer_url": "https://metromotors.com/view/used-2024-kia-seltos-1835561/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T19:48:20",
-      "odometer_km": 61918,
+      "name": "Used2025\n\t\t\t\t\t\t\t\tFord",
+      "vin": "1FMCU0GN2SUA60470",
+      "stock": "PFT2294",
+      "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/used/c4f25a809bbc.html",
+      "source_url": "https://metromotors.com/view/used-2025-ford-escape-1950465/",
+      "dealer_url": "https://metromotors.com/view/used-2025-ford-escape-1950465/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T10:43:01",
+      "odometer_km": 22728,
       "condition": "used",
       "city": "Port Coquitlam",
       "province": "BC"
