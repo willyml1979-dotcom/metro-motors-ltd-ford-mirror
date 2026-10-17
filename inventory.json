@@ -1,6 +1,6 @@
 {
   "dealership": "Metro Motors Ltd Ford",
-  "generated_at": "2026-10-17T10:43:09",
+  "generated_at": "2026-10-17T10:45:41",
   "vehicle_count": 33,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -232,7 +232,7 @@
       "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/new/6afbaaf5f6a5.html",
       "source_url": "https://metromotors.com/view/new-2026-ford-e-series-cutaway-1607465/",
       "dealer_url": "https://metromotors.com/view/new-2026-ford-e-series-cutaway-1607465/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T19:51:13",
+      "last_verified": "2026-10-17T10:44:27",
       "condition": "new",
       "city": "Port Coquitlam",
       "province": "BC"
@@ -244,7 +244,7 @@
       "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/new/8d7cb64ffbc6.html",
       "source_url": "https://metromotors.com/view/new-2026-ford-f-150-1733324/",
       "dealer_url": "https://metromotors.com/view/new-2026-ford-f-150-1733324/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T19:51:21",
+      "last_verified": "2026-10-17T10:44:34",
       "condition": "new",
       "city": "Port Coquitlam",
       "province": "BC"
@@ -256,7 +256,7 @@
       "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/new/a9ccc1cd3ce6.html",
       "source_url": "https://metromotors.com/view/new-2026-ford-f-150-1760174/",
       "dealer_url": "https://metromotors.com/view/new-2026-ford-f-150-1760174/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T19:51:30",
+      "last_verified": "2026-10-17T10:44:45",
       "condition": "new",
       "city": "Port Coquitlam",
       "province": "BC"
@@ -268,7 +268,31 @@
       "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/new/bc26e8be1fd0.html",
       "source_url": "https://metromotors.com/view/new-2026-ford-f-150-1764397/",
       "dealer_url": "https://metromotors.com/view/new-2026-ford-f-150-1764397/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T19:51:38",
+      "last_verified": "2026-10-17T10:44:53",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
+    },
+    {
+      "name": "New2026\n\t\t\t\t\t\t\t\tFord",
+      "vin": "1FTFW5L57TFB01955",
+      "stock": "26F1195",
+      "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/new/34a6cd001912.html",
+      "source_url": "https://metromotors.com/view/new-2026-ford-f-150-1781604/",
+      "dealer_url": "https://metromotors.com/view/new-2026-ford-f-150-1781604/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T10:43:22",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
+    },
+    {
+      "name": "New2026\n\t\t\t\t\t\t\t\tFord",
+      "vin": "1FTEW3LP9TKD68166",
+      "stock": "26F1816",
+      "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/new/59fdcd02fc15.html",
+      "source_url": "https://metromotors.com/view/new-2026-ford-f-150-1789596/",
+      "dealer_url": "https://metromotors.com/view/new-2026-ford-f-150-1789596/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T10:43:32",
       "condition": "new",
       "city": "Port Coquitlam",
       "province": "BC"
@@ -280,7 +304,7 @@
       "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/new/941f8790c21b.html",
       "source_url": "https://metromotors.com/view/new-2026-ford-mustang-1667166/",
       "dealer_url": "https://metromotors.com/view/new-2026-ford-mustang-1667166/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T19:51:46",
+      "last_verified": "2026-10-17T10:45:00",
       "condition": "new",
       "city": "Port Coquitlam",
       "province": "BC"
@@ -292,31 +316,19 @@
       "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/new/932430343a95.html",
       "source_url": "https://metromotors.com/view/new-2026-ford-mustang-1760173/",
       "dealer_url": "https://metromotors.com/view/new-2026-ford-mustang-1760173/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T19:51:53",
+      "last_verified": "2026-10-17T10:45:10",
       "condition": "new",
       "city": "Port Coquitlam",
       "province": "BC"
     },
     {
       "name": "New2026\n\t\t\t\t\t\t\t\tFord",
-      "vin": "1FTER4HHXTLE13401",
-      "stock": "26RA340",
-      "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/new/29273104decc.html",
-      "source_url": "https://metromotors.com/view/new-2026-ford-ranger-1754387/",
-      "dealer_url": "https://metromotors.com/view/new-2026-ford-ranger-1754387/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T19:52:01",
-      "condition": "new",
-      "city": "Port Coquitlam",
-      "province": "BC"
-    },
-    {
-      "name": "New2026\n\t\t\t\t\t\t\t\tFord",
-      "vin": "1FT8W3BA4TEE29237",
-      "stock": "26F3923",
-      "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/new/0f5dc6ed16d4.html",
-      "source_url": "https://metromotors.com/view/new-2026-ford-super-duty-1732614/",
-      "dealer_url": "https://metromotors.com/view/new-2026-ford-super-duty-1732614/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T19:52:08",
+      "vin": "3FMTK4SX5TMA09041",
+      "stock": "26ME904",
+      "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/new/65f56ac58b39.html",
+      "source_url": "https://metromotors.com/view/new-2026-ford-mustang-mach-e-1768487/",
+      "dealer_url": "https://metromotors.com/view/new-2026-ford-mustang-mach-e-1768487/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T10:43:42",
       "condition": "new",
       "city": "Port Coquitlam",
       "province": "BC"
@@ -328,7 +340,7 @@
       "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/new/902ef1e67056.html",
       "source_url": "https://metromotors.com/view/new-2027-ford-explorer-1933777/",
       "dealer_url": "https://metromotors.com/view/new-2027-ford-explorer-1933777/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T19:50:34",
+      "last_verified": "2026-10-17T10:43:51",
       "condition": "new",
       "city": "Port Coquitlam",
       "province": "BC"
@@ -340,7 +352,7 @@
       "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/new/2326447fb2b7.html",
       "source_url": "https://metromotors.com/view/new-2027-ford-super-duty-f-650-straight-frame-1930232/",
       "dealer_url": "https://metromotors.com/view/new-2027-ford-super-duty-f-650-straight-frame-1930232/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T19:52:16",
+      "last_verified": "2026-10-17T10:45:19",
       "condition": "new",
       "city": "Port Coquitlam",
       "province": "BC"
@@ -352,7 +364,7 @@
       "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/new/07b26b4eca8f.html",
       "source_url": "https://metromotors.com/view/new-2027-ford-transit-1917538/",
       "dealer_url": "https://metromotors.com/view/new-2027-ford-transit-1917538/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T19:52:24",
+      "last_verified": "2026-10-17T10:45:28",
       "condition": "new",
       "city": "Port Coquitlam",
       "province": "BC"
@@ -364,7 +376,7 @@
       "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/new/a811da7fd90e.html",
       "source_url": "https://metromotors.com/view/new-2027-ford-transit-1922112/",
       "dealer_url": "https://metromotors.com/view/new-2027-ford-transit-1922112/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T19:52:34",
+      "last_verified": "2026-10-17T10:45:38",
       "condition": "new",
       "city": "Port Coquitlam",
       "province": "BC"
@@ -376,7 +388,7 @@
       "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/new/692bd7088396.html",
       "source_url": "https://metromotors.com/view/new-2027-ford-transit-1928339/",
       "dealer_url": "https://metromotors.com/view/new-2027-ford-transit-1928339/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T19:50:42",
+      "last_verified": "2026-10-17T10:44:00",
       "condition": "new",
       "city": "Port Coquitlam",
       "province": "BC"
@@ -388,19 +400,7 @@
       "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/new/0c3115f3db1b.html",
       "source_url": "https://metromotors.com/view/new-2027-ford-transit-1932846/",
       "dealer_url": "https://metromotors.com/view/new-2027-ford-transit-1932846/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T19:50:50",
-      "condition": "new",
-      "city": "Port Coquitlam",
-      "province": "BC"
-    },
-    {
-      "name": "New2027\n\t\t\t\t\t\t\t\tFord",
-      "vin": "1FTBW3UG3VKA21534",
-      "stock": "27T3153",
-      "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/new/2955de9cf717.html",
-      "source_url": "https://metromotors.com/view/new-2027-ford-transit-1938097/",
-      "dealer_url": "https://metromotors.com/view/new-2027-ford-transit-1938097/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T19:50:58",
+      "last_verified": "2026-10-17T10:44:09",
       "condition": "new",
       "city": "Port Coquitlam",
       "province": "BC"
@@ -412,7 +412,7 @@
       "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/new/af9541b31853.html",
       "source_url": "https://metromotors.com/view/new-2027-ford-transit-1941248/",
       "dealer_url": "https://metromotors.com/view/new-2027-ford-transit-1941248/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T19:51:05",
+      "last_verified": "2026-10-17T10:44:17",
       "condition": "new",
       "city": "Port Coquitlam",
       "province": "BC"
