@@ -1,6 +1,6 @@
 {
   "dealership": "Metro Motors Ltd Ford",
-  "generated_at": "2026-10-22T14:58:16",
+  "generated_at": "2026-10-22T15:16:30",
   "vehicle_count": 33,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -232,7 +232,7 @@
       "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/new/85ed037af620.html",
       "source_url": "https://metromotors.com/view/new-2026-ford-bronco-sport-1789597/",
       "dealer_url": "https://metromotors.com/view/new-2026-ford-bronco-sport-1789597/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T04:48:14",
+      "last_verified": "2026-10-22T15:14:29",
       "condition": "new",
       "city": "Port Coquitlam",
       "province": "BC"
@@ -328,7 +328,7 @@
       "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/new/932430343a95.html",
       "source_url": "https://metromotors.com/view/new-2026-ford-mustang-1760173/",
       "dealer_url": "https://metromotors.com/view/new-2026-ford-mustang-1760173/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-19T15:00:01",
+      "last_verified": "2026-10-22T15:14:08",
       "condition": "new",
       "city": "Port Coquitlam",
       "province": "BC"
