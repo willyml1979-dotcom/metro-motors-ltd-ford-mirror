@@ -1,421 +1,207 @@
 {
   "dealership": "Metro Motors Ltd Ford",
-  "generated_at": "2026-10-23T00:50:40",
+  "generated_at": "2026-10-25T16:19:20",
   "vehicle_count": 33,
   "currency": "CAD",
-  "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
+  "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
     {
       "name": "Used2022\n\t\t\t\t\t\t\t\tFord",
       "vin": "1FMCU0H68NUB78339",
-      "stock": "MLT2303",
       "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/used/a1b7900879d7.html",
-      "source_url": "https://metromotors.com/view/used-2022-ford-escape-1935244/",
-      "dealer_url": "https://metromotors.com/view/used-2022-ford-escape-1935244/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-23T00:34:04",
-      "odometer_km": 37809,
-      "condition": "used",
-      "city": "Port Coquitlam",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "Used2022\n\t\t\t\t\t\t\t\tFord",
       "vin": "1FMCU9G6XNUB79711",
-      "stock": "PFT2293",
       "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/used/d8e07755a63a.html",
-      "source_url": "https://metromotors.com/view/used-2022-ford-escape-1950466/",
-      "dealer_url": "https://metromotors.com/view/used-2022-ford-escape-1950466/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-23T00:33:33",
-      "odometer_km": 61685,
-      "condition": "used",
-      "city": "Port Coquitlam",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "Used2022\n\t\t\t\t\t\t\t\tFord",
       "vin": "1FTFW1E88NKE31971",
-      "stock": "26F1266",
       "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/used/d405204d5ac7.html",
-      "source_url": "https://metromotors.com/view/used-2022-ford-f-150-1949280/",
-      "dealer_url": "https://metromotors.com/view/used-2022-ford-f-150-1949280/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-23T00:33:41",
-      "odometer_km": 79861,
-      "condition": "used",
-      "city": "Port Coquitlam",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "Used2022\n\t\t\t\t\t\t\t\tFord",
       "vin": "3FMTK4SX3NMA50920",
-      "stock": "MLT2292",
       "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/used/9c3589462a66.html",
-      "source_url": "https://metromotors.com/view/used-2022-ford-mustang-mach-e-1905288/",
-      "dealer_url": "https://metromotors.com/view/used-2022-ford-mustang-mach-e-1905288/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-23T00:34:13",
-      "odometer_km": 30588,
-      "condition": "used",
-      "city": "Port Coquitlam",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "Used2023\n\t\t\t\t\t\t\t\tFord",
       "vin": "1FMCU0E10PUA55663",
-      "stock": "FLT5760",
       "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/used/7dd9ecea954f.html",
-      "source_url": "https://metromotors.com/view/used-2023-ford-escape-1647018/",
-      "dealer_url": "https://metromotors.com/view/used-2023-ford-escape-1647018/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-23T00:35:10",
-      "odometer_km": 35950,
-      "condition": "used",
-      "city": "Port Coquitlam",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "Used2023\n\t\t\t\t\t\t\t\tFord",
       "vin": "1FMCU9NA6PUA78613",
-      "stock": "FLT5817",
       "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/used/d7a7f84e388f.html",
-      "source_url": "https://metromotors.com/view/used-2023-ford-escape-1913922/",
-      "dealer_url": "https://metromotors.com/view/used-2023-ford-escape-1913922/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-23T00:35:19",
-      "odometer_km": 51818,
-      "condition": "used",
-      "city": "Port Coquitlam",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "Used2023\n\t\t\t\t\t\t\t\tFord",
       "vin": "1FTFW1E87PFB06708",
-      "stock": "FLT5812",
       "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/used/58d5364f0185.html",
-      "source_url": "https://metromotors.com/view/used-2023-ford-f-150-1892875/",
-      "dealer_url": "https://metromotors.com/view/used-2023-ford-f-150-1892875/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T04:22:10",
-      "odometer_km": 70945,
-      "condition": "used",
-      "city": "Port Coquitlam",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "Used2023\n\t\t\t\t\t\t\t\tFord",
       "vin": "1FTEW1EP0PKD37444",
-      "stock": "MLT2293",
       "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/used/ec15c2382671.html",
-      "source_url": "https://metromotors.com/view/used-2023-ford-f-150-1907278/",
-      "dealer_url": "https://metromotors.com/view/used-2023-ford-f-150-1907278/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T04:22:20",
-      "odometer_km": 63723,
-      "condition": "used",
-      "city": "Port Coquitlam",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "Search",
       "vin": "1FTFW1E87PFB06708",
-      "stock": "FLT5812",
       "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/used/64f1ab39de30.html",
-      "source_url": "https://metromotors.com/view/used-2023-ford-f-150-981725/",
-      "dealer_url": "https://metromotors.com/view/used-2023-ford-f-150-981725/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T04:22:30",
-      "odometer_km": 70945,
-      "condition": "used",
-      "city": "Port Coquitlam",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "Used2023\n\t\t\t\t\t\t\t\tFord",
       "vin": "3FTTW8F93PRA87631",
-      "stock": "PFT2295",
       "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/used/7d003bfed3d6.html",
-      "source_url": "https://metromotors.com/view/used-2023-ford-maverick-1950464/",
-      "dealer_url": "https://metromotors.com/view/used-2023-ford-maverick-1950464/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-23T00:33:48",
-      "odometer_km": 27956,
-      "condition": "used",
-      "city": "Port Coquitlam",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "Used2024\n\t\t\t\t\t\t\t\tFord",
       "vin": "1FMDE8BH6RLA77922",
-      "stock": "PFT2287",
       "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/used/9c98b1a55295.html",
-      "source_url": "https://metromotors.com/view/used-2024-ford-bronco-1813443/",
-      "dealer_url": "https://metromotors.com/view/used-2024-ford-bronco-1813443/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T04:22:40",
-      "odometer_km": 38540,
-      "condition": "used",
-      "city": "Port Coquitlam",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "Used2024\n\t\t\t\t\t\t\t\tFord",
       "vin": "3FMCR9C67RRE66329",
-      "stock": "25BR171",
       "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/used/9a79772ce75d.html",
-      "source_url": "https://metromotors.com/view/used-2024-ford-bronco-sport-1893845/",
-      "dealer_url": "https://metromotors.com/view/used-2024-ford-bronco-sport-1893845/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-23T00:33:24",
-      "odometer_km": 39037,
-      "condition": "used",
-      "city": "Port Coquitlam",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "Used2024\n\t\t\t\t\t\t\t\tFord",
       "vin": "3FTTW8M34RRB58076",
-      "stock": "FLT5826",
       "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/used/0d5fab52d3df.html",
-      "source_url": "https://metromotors.com/view/used-2024-ford-maverick-1954878/",
-      "dealer_url": "https://metromotors.com/view/used-2024-ford-maverick-1954878/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-23T00:34:54",
-      "odometer_km": 10887,
-      "condition": "used",
-      "city": "Port Coquitlam",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "Used2025\n\t\t\t\t\t\t\t\tFord",
       "vin": "1FMCU0GN2SUA60470",
-      "stock": "PFT2294",
       "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/used/c4f25a809bbc.html",
-      "source_url": "https://metromotors.com/view/used-2025-ford-escape-1950465/",
-      "dealer_url": "https://metromotors.com/view/used-2025-ford-escape-1950465/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-23T00:33:57",
-      "odometer_km": 22728,
-      "condition": "used",
-      "city": "Port Coquitlam",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "Used2025\n\t\t\t\t\t\t\t\tFord",
       "vin": "1FMWK8GC4SGB75683",
-      "stock": "PT5974",
       "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/used/432ec80411d7.html",
-      "source_url": "https://metromotors.com/view/used-2025-ford-explorer-1885336/",
-      "dealer_url": "https://metromotors.com/view/used-2025-ford-explorer-1885336/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-23T00:34:20",
-      "condition": "used",
-      "city": "Port Coquitlam",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "Used2025\n\t\t\t\t\t\t\t\tFord",
       "vin": "1FTVW3LK6SWG22461",
-      "stock": "PT5971",
       "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/used/1514424000df.html",
-      "source_url": "https://metromotors.com/view/used-2025-ford-f-150-lightning-1884777/",
-      "dealer_url": "https://metromotors.com/view/used-2025-ford-f-150-lightning-1884777/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-23T00:34:27",
-      "odometer_km": 24098,
-      "condition": "used",
-      "city": "Port Coquitlam",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "Used2026\n\t\t\t\t\t\t\t\tFord",
       "vin": "3FMCR9CN8TRE44967",
-      "stock": "PFT2292",
       "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/used/c0f05632502a.html",
-      "source_url": "https://metromotors.com/view/used-2026-ford-bronco-sport-1926831/",
-      "dealer_url": "https://metromotors.com/view/used-2026-ford-bronco-sport-1926831/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-23T00:34:36",
-      "odometer_km": 2984,
-      "condition": "used",
-      "city": "Port Coquitlam",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "New2026\n\t\t\t\t\t\t\t\tFord",
       "vin": "3FMCR9CN0TRE50889",
-      "stock": "26BS088",
       "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/new/85ed037af620.html",
-      "source_url": "https://metromotors.com/view/new-2026-ford-bronco-sport-1789597/",
-      "dealer_url": "https://metromotors.com/view/new-2026-ford-bronco-sport-1789597/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-23T00:48:58",
-      "condition": "new",
-      "city": "Port Coquitlam",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026\n\t\t\t\t\t\t\t\tFord",
       "vin": "1FDXE4FNXTDD30182",
-      "stock": "26E4018",
       "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/new/6afbaaf5f6a5.html",
-      "source_url": "https://metromotors.com/view/new-2026-ford-e-series-cutaway-1607465/",
-      "dealer_url": "https://metromotors.com/view/new-2026-ford-e-series-cutaway-1607465/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-23T00:50:21",
-      "condition": "new",
-      "city": "Port Coquitlam",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026\n\t\t\t\t\t\t\t\tFord",
       "vin": "1FTFW5L87TFA36728",
-      "stock": "26F1672",
       "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/new/8d7cb64ffbc6.html",
-      "source_url": "https://metromotors.com/view/new-2026-ford-f-150-1733324/",
-      "dealer_url": "https://metromotors.com/view/new-2026-ford-f-150-1733324/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-23T00:50:29",
-      "condition": "new",
-      "city": "Port Coquitlam",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026\n\t\t\t\t\t\t\t\tFord",
       "vin": "1FTFW3L58TKD59428",
-      "stock": "26F1942",
       "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/new/a9ccc1cd3ce6.html",
-      "source_url": "https://metromotors.com/view/new-2026-ford-f-150-1760174/",
-      "dealer_url": "https://metromotors.com/view/new-2026-ford-f-150-1760174/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-23T00:50:37",
-      "condition": "new",
-      "city": "Port Coquitlam",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026\n\t\t\t\t\t\t\t\tFord",
       "vin": "1FTFW3L85TFA66086",
-      "stock": "26F1608",
       "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/new/bc26e8be1fd0.html",
-      "source_url": "https://metromotors.com/view/new-2026-ford-f-150-1764397/",
-      "dealer_url": "https://metromotors.com/view/new-2026-ford-f-150-1764397/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T04:50:01",
-      "condition": "new",
-      "city": "Port Coquitlam",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026\n\t\t\t\t\t\t\t\tFord",
       "vin": "1FTFW5L57TFB01955",
-      "stock": "26F1195",
       "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/new/34a6cd001912.html",
-      "source_url": "https://metromotors.com/view/new-2026-ford-f-150-1781604/",
-      "dealer_url": "https://metromotors.com/view/new-2026-ford-f-150-1781604/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-23T00:49:23",
-      "condition": "new",
-      "city": "Port Coquitlam",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026\n\t\t\t\t\t\t\t\tFord",
       "vin": "1FTEW3LP9TKD68166",
-      "stock": "26F1816",
       "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/new/59fdcd02fc15.html",
-      "source_url": "https://metromotors.com/view/new-2026-ford-f-150-1789596/",
-      "dealer_url": "https://metromotors.com/view/new-2026-ford-f-150-1789596/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-23T00:49:33",
-      "condition": "new",
-      "city": "Port Coquitlam",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026\n\t\t\t\t\t\t\t\tFord",
       "vin": "1FA6P8THXT5112937",
-      "stock": "26MU293",
       "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/new/941f8790c21b.html",
-      "source_url": "https://metromotors.com/view/new-2026-ford-mustang-1667166/",
-      "dealer_url": "https://metromotors.com/view/new-2026-ford-mustang-1667166/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-23T00:48:32",
-      "condition": "new",
-      "city": "Port Coquitlam",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026\n\t\t\t\t\t\t\t\tFord",
       "vin": "1FA6P8CF3T5407750",
-      "stock": "26MU775",
       "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/new/932430343a95.html",
-      "source_url": "https://metromotors.com/view/new-2026-ford-mustang-1760173/",
-      "dealer_url": "https://metromotors.com/view/new-2026-ford-mustang-1760173/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-23T00:48:41",
-      "condition": "new",
-      "city": "Port Coquitlam",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2026\n\t\t\t\t\t\t\t\tFord",
       "vin": "3FMTK4SX5TMA09041",
-      "stock": "26ME904",
       "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/new/65f56ac58b39.html",
-      "source_url": "https://metromotors.com/view/new-2026-ford-mustang-mach-e-1768487/",
-      "dealer_url": "https://metromotors.com/view/new-2026-ford-mustang-mach-e-1768487/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-23T00:49:42",
-      "condition": "new",
-      "city": "Port Coquitlam",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2027\n\t\t\t\t\t\t\t\tFord",
       "vin": "1FMWK8JC6VGA35888",
-      "stock": "27EX588",
       "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/new/902ef1e67056.html",
-      "source_url": "https://metromotors.com/view/new-2027-ford-explorer-1933777/",
-      "dealer_url": "https://metromotors.com/view/new-2027-ford-explorer-1933777/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-23T00:49:52",
-      "condition": "new",
-      "city": "Port Coquitlam",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2027\n\t\t\t\t\t\t\t\tFord",
       "vin": "1FDPF6DX3VDF00754",
-      "stock": "27F6075",
       "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/new/2326447fb2b7.html",
-      "source_url": "https://metromotors.com/view/new-2027-ford-super-duty-f-650-straight-frame-1930232/",
-      "dealer_url": "https://metromotors.com/view/new-2027-ford-super-duty-f-650-straight-frame-1930232/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-23T00:48:48",
-      "condition": "new",
-      "city": "Port Coquitlam",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2027\n\t\t\t\t\t\t\t\tFord",
       "vin": "1FTBW3UG5VKA07487",
-      "stock": "27T3748",
       "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/new/07b26b4eca8f.html",
-      "source_url": "https://metromotors.com/view/new-2027-ford-transit-1917538/",
-      "dealer_url": "https://metromotors.com/view/new-2027-ford-transit-1917538/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-23T00:49:06",
-      "condition": "new",
-      "city": "Port Coquitlam",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2027\n\t\t\t\t\t\t\t\tFord",
       "vin": "1FTYE1Y8XVKA07425",
-      "stock": "27T1742",
       "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/new/a811da7fd90e.html",
-      "source_url": "https://metromotors.com/view/new-2027-ford-transit-1922112/",
-      "dealer_url": "https://metromotors.com/view/new-2027-ford-transit-1922112/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-23T00:49:14",
-      "condition": "new",
-      "city": "Port Coquitlam",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2027\n\t\t\t\t\t\t\t\tFord",
       "vin": "1FTBW3X8XVKA13810",
-      "stock": "27T3381",
       "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/new/692bd7088396.html",
-      "source_url": "https://metromotors.com/view/new-2027-ford-transit-1928339/",
-      "dealer_url": "https://metromotors.com/view/new-2027-ford-transit-1928339/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-23T00:50:02",
-      "condition": "new",
-      "city": "Port Coquitlam",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "New2027\n\t\t\t\t\t\t\t\tFord",
       "vin": "1FTBW3X84VKA08375",
-      "stock": "27T3837",
       "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/new/0c3115f3db1b.html",
-      "source_url": "https://metromotors.com/view/new-2027-ford-transit-1932846/",
-      "dealer_url": "https://metromotors.com/view/new-2027-ford-transit-1932846/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-23T00:50:12",
-      "condition": "new",
-      "city": "Port Coquitlam",
-      "province": "BC"
+      "condition": "new"
     }
   ]
 }
