@@ -1,14 +1,56 @@
 {
   "dealership": "Metro Motors Ltd Ford",
-  "generated_at": "2026-10-26T10:18:47",
-  "vehicle_count": 33,
+  "generated_at": "2026-11-17T13:46:08",
+  "vehicle_count": 46,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
     {
+      "name": "Used2018\n\t\t\t\t\t\t\t\tFord",
+      "vin": "MAJ6P1UL5JC227853",
+      "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/used/8982adb0618d.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used2018\n\t\t\t\t\t\t\t\tFord",
+      "vin": "MAJ6P1ULXJC238332",
+      "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/used/6958a7f53e9f.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used2019\n\t\t\t\t\t\t\t\tFord",
+      "vin": "1FM5K8HT4KGA14213",
+      "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/used/bfc9eee307e9.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used2019\n\t\t\t\t\t\t\t\tFord",
+      "vin": "1FTYR2CM2KKB03964",
+      "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/used/6ecbb8e63d58.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used2020\n\t\t\t\t\t\t\t\tFord",
+      "vin": "MAJ6S3KL8LC328319",
+      "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/used/3b5df2a43635.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used2021\n\t\t\t\t\t\t\t\tFord",
+      "vin": "1FTEW1EP7MKE50979",
+      "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/used/c1b646e91d42.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used2021\n\t\t\t\t\t\t\t\tFord",
+      "vin": "1FTFW1E88MKE50907",
+      "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/used/392abd29679f.html",
+      "condition": "used"
+    },
+    {
       "name": "Used2022\n\t\t\t\t\t\t\t\tFord",
-      "vin": "1FMCU0H68NUB78339",
-      "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/used/a1b7900879d7.html",
+      "vin": "MAJ6S3JL6NC460578",
+      "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/used/0ab577e2b27d.html",
       "condition": "used"
     },
     {
@@ -19,8 +61,26 @@
     },
     {
       "name": "Used2022\n\t\t\t\t\t\t\t\tFord",
+      "vin": "1FMCU9J90NUB02154",
+      "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/used/963b4b1e7035.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used2022\n\t\t\t\t\t\t\t\tFord",
       "vin": "1FTFW1E88NKE31971",
       "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/used/d405204d5ac7.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used2022\n\t\t\t\t\t\t\t\tFord",
+      "vin": "1FTFW1E80NFB36825",
+      "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/used/166d2cdba8a2.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used2022\n\t\t\t\t\t\t\t\tFord",
+      "vin": "1FTFW1E8XNFB85157",
+      "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/used/4844a783bc8f.html",
       "condition": "used"
     },
     {
@@ -54,6 +114,12 @@
       "condition": "used"
     },
     {
+      "name": "Used2023\n\t\t\t\t\t\t\t\tFord",
+      "vin": "1FTFW1ED7PFB04650",
+      "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/used/14ae795c77fb.html",
+      "condition": "used"
+    },
+    {
       "name": "Search",
       "vin": "1FTFW1E87PFB06708",
       "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/used/64f1ab39de30.html",
@@ -73,8 +139,8 @@
     },
     {
       "name": "Used2024\n\t\t\t\t\t\t\t\tFord",
-      "vin": "3FMCR9C67RRE66329",
-      "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/used/9a79772ce75d.html",
+      "vin": "1FTFW1RG1RFA22856",
+      "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/used/8c72a87defe5.html",
       "condition": "used"
     },
     {
@@ -97,14 +163,26 @@
     },
     {
       "name": "Used2025\n\t\t\t\t\t\t\t\tFord",
+      "vin": "1FTFW3L81SKE14830",
+      "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/used/5c61ca32b811.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used2025\n\t\t\t\t\t\t\t\tFord",
       "vin": "1FTVW3LK6SWG22461",
       "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/used/1514424000df.html",
       "condition": "used"
     },
     {
       "name": "Used2026\n\t\t\t\t\t\t\t\tFord",
-      "vin": "3FMCR9CN8TRE44967",
-      "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/used/c0f05632502a.html",
+      "vin": "3FMCR9BNXTRE15696",
+      "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/used/e4dda60654b3.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used2026\n\t\t\t\t\t\t\t\tFord",
+      "vin": "3FMCR9BN3TRE29486",
+      "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/used/fa4057153b2d.html",
       "condition": "used"
     },
     {
