@@ -1,6 +1,6 @@
 # Metro Motors Ltd. (Ford)
 
- dealership in Port Coquitlam. AI-readable inventory mirror, about 62 vehicles.
+ dealership in Port Coquitlam. AI-readable inventory mirror, about 63 vehicles.
 
 - Official website: https://metromotors.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/used/

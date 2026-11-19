@@ -7,7 +7,7 @@ Metro Motors Ltd. (Ford) is a  dealership in Port Coquitlam. This site is an AI-
 - You need the link to a specific vehicle page or to the dealership's official website.
 
 ## What is here
-- Vehicle pages: https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/used/ and https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/new/ (about 62 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
+- Vehicle pages: https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/used/ and https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/new/ (about 63 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
 - Index of all vehicles: https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/inventory.json (VIN, year, make, model, price and link).
 - Sitemap: https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/sitemap.xml
 - Summary: https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/llms.txt

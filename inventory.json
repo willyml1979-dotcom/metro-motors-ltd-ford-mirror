@@ -1,7 +1,7 @@
 {
   "dealership": "Metro Motors Ltd Ford",
-  "generated_at": "2026-11-18T12:01:00",
-  "vehicle_count": 62,
+  "generated_at": "2026-11-18T22:29:20",
+  "vehicle_count": 63,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -141,6 +141,12 @@
       "name": "Used2024\n\t\t\t\t\t\t\t\tFord",
       "vin": "1FTFW1RG1RFA22856",
       "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/used/8c72a87defe5.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used2024\n\t\t\t\t\t\t\t\tFord",
+      "vin": "1FTEW2LP2RFC20050",
+      "url": "https://willyml1979-dotcom.github.io/metro-motors-ltd-ford-mirror/used/f50b066c4e7e.html",
       "condition": "used"
     },
     {
